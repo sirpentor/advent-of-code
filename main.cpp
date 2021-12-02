@@ -43,7 +43,7 @@ struct solution_data_t {
 
 int main() {
     // Change this to work on a different problem.
-    solution_data_t solution_data = GET_SOLUTION_DATA(2021, 01);
+    solution_data_t solution_data = GET_SOLUTION_DATA(2021, 02);
 
     printf("Solving problem '%s', using data file '%s'\n",
         solution_data.friendly_name.c_str(), solution_data.input_file_path.c_str());
