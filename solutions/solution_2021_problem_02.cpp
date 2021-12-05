@@ -1,7 +1,7 @@
 #include <string>
 #include <fstream>
 
-// Solutions for the first problem of 2021.
+// Solutions for the second problem of 2021.
 // https://adventofcode.com/2021/day/2
 
 namespace solutions {
