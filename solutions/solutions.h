@@ -14,4 +14,7 @@ namespace solutions {
 
     std::string solve_2021_03_a(const std::string& file_path);
     std::string solve_2021_03_b(const std::string& file_path);
+
+    std::string solve_2021_04_a(const std::string& file_path);
+    std::string solve_2021_04_b(const std::string& file_path);
 }
